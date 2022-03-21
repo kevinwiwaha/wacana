@@ -16,6 +16,10 @@ module.exports = {
       indigo: colors.indigo,
       red: colors.red,
       yellow: colors.yellow,
+      orange:colors.orange,
+      violet:colors.violet,
+      rose:colors.rose,
+      blue:colors.blue,
       'wacana': {
         700: '#1E6561',
         800: '#154744',
